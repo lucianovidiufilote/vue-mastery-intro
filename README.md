@@ -1,1 +1,1 @@
-# vue-mastery-intro
+Final script from the Vue Mastery Intro Course
